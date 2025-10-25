@@ -1,0 +1,9 @@
+{
+  "appName": "Modular Project",
+  "version": "1.0.0",
+  "modules": [],
+  "settings": {
+    "autoLoadModules": true,
+    "debugMode": false
+  }
+}
